@@ -11,5 +11,5 @@ clean:
 	rm -rf $(TEXFILE).bbl $(TEXFILE).aux $(TEXFILE).tex.blg \
 		$(TEXFILE).log $(TEXFILE).bcf $(TEXFILE).out \
 		$(TEXFILE).toc $(TEXFILE).run.xml \
-		$(TEXFILE).pdf
+		$(TEXFILE).blg $(TEXFILE).pdf
 
